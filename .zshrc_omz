@@ -6,6 +6,7 @@ export PATH=/home/stara/.local/bin:$PATH:/usr/local/go/bin
 alias nvim="lvim"
 export EDITOR="lvim"
 export VISUAL="lvim"
+source /usr/share/nvm/init-nvm.sh 
 
 # College Aliases
 alias venv="source env/bin/activate"

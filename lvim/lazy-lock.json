@@ -41,6 +41,7 @@
   "onedarker.nvim": { "branch": "freeze", "commit": "b00dd2189f264c5aeb4cf04c59439655ecd573ec" },
   "plenary.nvim": { "branch": "master", "commit": "08e301982b9a057110ede7a735dd1b5285eb341f" },
   "project.nvim": { "branch": "main", "commit": "8c6bad7d22eef1b71144b401c9f74ed01526a4fb" },
+  "rainbow-delimiters.nvim": { "branch": "master", "commit": "acb867e2c26104bb700cc660853d75690925cbe0" },
   "rust-tools.nvim": { "branch": "master", "commit": "676187908a1ce35ffcd727c654ed68d851299d3e" },
   "schemastore.nvim": { "branch": "main", "commit": "8c46453bdf84ad91877effb95e0b6c7b51ea7dda" },
   "structlog.nvim": { "branch": "main", "commit": "45b26a2b1036bb93c0e83f4225e85ab3cee8f476" },

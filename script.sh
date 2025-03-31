@@ -9,3 +9,4 @@ rm -rf ~/.config/lvim && ln -s ~/.dotfiles/lvim ~/.config/lvim
 rm -rf ~/.config/paru && ln -s ~/.dotfiles/paru ~/.config/paru
 rm -rf ~/.config/lazygit && ln -s ~/.dotfiles/lazygit ~/.config/lazygit
 rm -f ~/.zshrc && ln -s ~/.dotfiles/.zshrc_omz ~/.zshrc
+rm -f ~/.vimrc && ln -s ~/.dotfiles/.vimrc ~/.vimrc
